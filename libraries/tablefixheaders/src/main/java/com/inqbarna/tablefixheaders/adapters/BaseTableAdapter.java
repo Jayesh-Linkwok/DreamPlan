@@ -7,7 +7,7 @@ import android.database.DataSetObserver;
  * Common base class of common implementation for an {@link TableAdapter} that
  * can be used in {@link TableFixHeaders}.
  * 
- * @author Brais Gabín (InQBarna)
+ * @author
  */
 public abstract class BaseTableAdapter implements TableAdapter {
 	private final DataSetObservable mDataSetObservable = new DataSetObservable();
