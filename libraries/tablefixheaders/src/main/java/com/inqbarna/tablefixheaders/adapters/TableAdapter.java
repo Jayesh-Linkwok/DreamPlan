@@ -11,7 +11,7 @@ import android.view.ViewGroup;
  * set.
  *
  *
- * @see TableFixHeaders
+ *
  */
 public interface TableAdapter {
 
